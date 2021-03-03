@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+ <sharpUpdate>
+
+            <update>
+                <version>1.1</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Onion-Omega-Update/main/onionomega.zip</url>
+                <filePath>./onionomega.zip</filePath>
+                <md5>b7dbc7e97c3574c95f9b884e926f9917</md5>
+                <description>test</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+</sharpUpdate>
